@@ -3,10 +3,10 @@ Knowledgebase of common problems
 
 ## Unknown tool: tools
 
-Commonly presents as an error during an attempt to add Sean Cornfield's "new" like so
+Commonly presents as an error during an attempt to add Sean Corfield's "new" like so
 
 ```
-clojure -Ttools install io.github.seancorfield/deps-new '{:git/tag "v0.5.1"}' :as new
+clojure -Ttools install com.github.seancorfield/clj-new '{:git/tag "v1.2.381"}' :as new
 ```
 
 and the error 
